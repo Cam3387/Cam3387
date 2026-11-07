@@ -1,35 +1,45 @@
 # Cam Fourrier
-*Aerospace. Twenty years. Most of it, I'll keep to myself.*
+*Engineer. Twenty years. Most of it, I'll keep to myself.*
 
-Anyone can tell you how an aircraft works. I can tell you how it fails,
-where it fails first, and what it sounded like just before. I learned
-that on the hangar floor, and I've worked on more aircraft than I'll
-admit to. No textbook covers it. Some lessons you have to be standing
-next to.
+Let me tell you something about machines. They don't care about your
+timeline, your budget, or how confident you sound in the meeting. They
+care about one thing: whether you truly understood what you built.
 
-Then I started building my own. Prototypes, dozens of them. Each one
-taught me something the last one got wrong, which is the only kind of
-teacher worth paying for.
+I've spent twenty years keeping company with magnificent, ungrateful
+machines. The kind that fly. The kind that burn their way to orbit. The
+kind that circle the Earth in silence. The kind that learn to think. And
+a few that didn't have names yet. I designed these beautiful liars,
+tested each one until it confessed, and upgraded it once it had learned
+its lesson.
 
-## Rules of an Engineer
-1. A part doesn't fail when you're watching. It fails when you've stopped.
-2. The checklist is written in someone else's mistakes. Read it that way.
-3. If it can't be taken apart, it can't be understood.
-4. The best prototype is the one that breaks early and cheaply.
-5. Confidence is just research nobody saw you do.
+And here is what that taught me. People say "impossible" when they've
+run out of patience, not physics. **Impossible isn't a verdict. It's an
+opening bid.** I have always had more patience than the people bidding.
 
-## The short list
-- 🛠️ **every build, every failure, every lesson
-- ✈️ I run an aviation consulting company
+## The Business
+- 🛠️ Dozens of builds, every failure, every lesson
+- 🛰️ Design, testing, and upgrades across machines that fly, burn, orbit, and think
+- ✈️ Founder of an aviation consulting company
 - 🎓 Studying aerospace engineering, because curiosity doesn't retire
-- 🧑‍✈️ Learning to fly. I prefer to understand a thing from the inside.
+- 🧑‍✈️ Learning to fly. I like to understand a thing from the inside.
 - 🚀 NASA STEM coursework, and the Space Generation Advisory Council since 2025
 
-## The long game
+## A Piece of Advice
+> Nothing fails while you're watching. It waits.
+>
+> Every checklist is a memoir written by someone else's mistakes.
+>
+> The best prototype is the one that breaks early, quietly, and cheaply.
+>
+> Confidence is just research nobody saw you do.
+
+## The Long Game
 Space. I don't say it to impress anyone. I say it because I've made the plan.
 
-## The challenge
+## The Proposition
 Something impossible, stuck, or "can't be done"?
-Good. Those are the only problems worth my time. Tell me about it.
+Wonderful. Sit down. Tell me everything.
+
+📬 [YOUR EMAIL or LINKEDIN]
 
 *Dallas, TX. Most of the story isn't on this page.*
