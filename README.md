@@ -1,4 +1,4 @@
-# Camille Fourrier
+# Cam Fourrier
 *Aerospace. Twenty years. Most of it, I'll keep to myself.*
 
 Anyone can tell you how an aircraft works. I can tell you how it fails,
