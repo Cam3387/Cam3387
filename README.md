@@ -1,3 +1,35 @@
 # Camille Fourrier
+*Aerospace. Twenty years. Most of it, I'll keep to myself.*
 
-Camille Fourrier — aerospace engineering and operations professional in Dallas, Texas, with more than twenty years in aerospace. I came up through aircraft programs hands on: heavy checks, modifications, logistics, and fleet support across nearly two thousand aircraft, and rose into project management. I design and build too: more than eighty prototypes of my own, designed, built, and tested by hand, each one teaching me something the last one got wrong. Today I run an aviation consulting company and work in aerospace program support. I am a student pilot with 52 flight hours and a college student in aerospace engineering, working toward the degree and, in time, a shot at flying in space. I am taking NASA STEM coursework now and have been part of the Space Generation Advisory Council community since 2025. I learn fast, I want to know how everything works, and I bring planning, operations, research, and design thinking to a team.
+Anyone can tell you how an aircraft works. I can tell you how it fails,
+where it fails first, and what it sounded like just before. I learned
+that on the hangar floor, and I've worked on more aircraft than I'll
+admit to. No textbook covers it. Some lessons you have to be standing
+next to.
+
+Then I started building my own. Prototypes, dozens of them. Each one
+taught me something the last one got wrong, which is the only kind of
+teacher worth paying for.
+
+## Rules of an Engineer
+1. A part doesn't fail when you're watching. It fails when you've stopped.
+2. The checklist is written in someone else's mistakes. Read it that way.
+3. If it can't be taken apart, it can't be understood.
+4. The best prototype is the one that breaks early and cheaply.
+5. Confidence is just research nobody saw you do.
+
+## The short list
+- 🛠️ **every build, every failure, every lesson
+- ✈️ I run an aviation consulting company
+- 🎓 Studying aerospace engineering, because curiosity doesn't retire
+- 🧑‍✈️ Learning to fly. I prefer to understand a thing from the inside.
+- 🚀 NASA STEM coursework, and the Space Generation Advisory Council since 2025
+
+## The long game
+Space. I don't say it to impress anyone. I say it because I've made the plan.
+
+## The challenge
+Something impossible, stuck, or "can't be done"?
+Good. Those are the only problems worth my time. Tell me about it.
+
+*Dallas, TX. Most of the story isn't on this page.*
